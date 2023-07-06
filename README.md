@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @MarcosKajihara
+- 💻 Formado em Ciência da Computação
+- 📗 Inglês Fluente
 - 👀 I’m interested in Data sciency and Big Data
 - 🌱 I’m currently learning Pyhton and Big Data
 - 💞️ I’m looking to collaborate on everything that i can
